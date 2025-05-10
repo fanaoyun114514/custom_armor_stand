@@ -1,1 +1,18 @@
-
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:armor_stand",
+      "min_engine_version": "1.8.0",
+      "materials": {
+        "default": "armor_stand"
+      },
+      "textures": {
+        "default": "自定义盔甲架细臂皮肤"
+      },
+      "geometry": {
+        "default": "geometry.humanoid.armor_stand_lock_skin_java"
+      }
+    }
+  }
+}
