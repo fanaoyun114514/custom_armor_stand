@@ -1,0 +1,35 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "CC0 1.0 Universal",
+        "name": "自定义盔甲架",
+        "uuid": "6db26bcf-4f6c-4d91-9e09-8bc53b391190",
+        "version": [ 2, 0, 0 ],
+        "min_engine_version": [ 1, 17, 0 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "ff69e347-636a-4f6a-b5cf-d70c584b4bf5",
+            "version": [ 2, 0, 0 ]
+        }
+    ],
+    "subpacks": [
+        {
+            "folder_name": "粗臂",
+            "name": "粗臂",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "细臂(仿Java样式)",
+            "name": "细臂(仿Java样式)",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "细臂",
+            "name": "细臂",
+            "memory_tier": 1
+        }
+    ]
+}
